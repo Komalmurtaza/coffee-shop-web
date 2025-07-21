@@ -14,8 +14,7 @@ A clean and responsive static website for a coffee shop, built using **HTML**, *
 - JavaScript
 ## 🚀 Live Demo
 
-[🌐 Click here to view the live website](https://your-username.github.io/coffee-shop-website)  
-*(Replace with your actual GitHub Pages URL after upload)*
+[🌐 Click here to view the live website](https://komalmurtaza.github.io/coffee-shop-web/)  
 
 ## 📝 License
 
